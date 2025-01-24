@@ -13,8 +13,7 @@ Este jogo é baseado na adivinhação de nomes adicionados pelo próprio usuári
 ## 🎬 Tutorial
 
 
-
-https://github.com/user-attachments/assets/4cdb50ab-9d4a-41e9-8e2e-1478e56b52f1
+https://github.com/user-attachments/assets/8116076b-fe1e-46d3-ab0d-9f99e4960067
 
 
 
