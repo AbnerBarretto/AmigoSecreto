@@ -31,8 +31,12 @@ function sortearAmigo(){
         let random = Math.floor(Math.random() * amigos.length);
         console.log(amigos[random]);
         exibirNaTela("resultado", `O amigo secreto sorteado foi: ${amigos[random]}`)
-    }
+        amigos = [];
+        atualizarListaDeAmigos();
+    }   
 }
+
+
 
 
 
