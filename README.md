@@ -8,7 +8,7 @@ Este jogo é baseado na adivinhação de nomes adicionados pelo próprio usuári
 ## 🔨 Abrir e rodar
 
 - Adicionando pessoas: No campo "Digite um nome", digite os nomes dos participantes e clique em "Adicionar" para confirmar o nome do participante na lista.
-- Sortear pessoas: Com base nas adições de pessoas no campo de texto, o programa irá aleatoriamente escolher, apenas uma pessoa.
+- Sortear pessoas: Com base nas adições de pessoas no campo de texto, o programa irá aleatoriamente escolher apenas uma pessoa.
 
 ## 🎬 Tutorial
 
