@@ -10,6 +10,7 @@ function adicionarAmigo(){
         amigos.push(amigo);
         console.log(`O amigo ${amigo} foi adicionado na lista`, amigos);
         document.querySelector("input").value = "";
+        atualizarListaDeAmigos();
     }
 }
 
@@ -21,4 +22,21 @@ function atualizarListaDeAmigos(){
         li.textContent = amigos[i]; 
         lista.appendChild(li);
     }
+}
+
+function sortearAmigo(){
+    if(amigos.length == 0){
+        console.log('Esta lista está vazia')
+    }else{
+        let random = Math.floor(Math.random() * amigos.length);
+        console.log(amigos[random]);
+        exibirNaTela("resultado", amigos[random])
+    }
+}
+
+
+
+function exibirNaTela(tag,texto){
+    let campo = document.getElementById(tag);
+    campo.innerHTML = texto;
 }
