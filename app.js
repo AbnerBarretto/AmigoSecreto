@@ -1,9 +1,8 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
+// Criar lista zerada
 let amigo = []
-
-function adicionaramigo(){
-    let campo = document.querySelector("Digite o nome dos seus amigos");
-    if (campo = null){
-        alert("Por favor, insira um nome.");
-    }
+// Capturar o valor do campo de entrada
+function adicionarAmigo(){
+    let amigos = document.querySelector("input").value;
+    console.log(amigos);
 }
+ // Função para verificar se o nome sendo adicionado já existe na lista
