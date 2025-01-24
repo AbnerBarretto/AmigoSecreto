@@ -1,12 +1,14 @@
 # <h1 align="center"> Jogo do Amigo Secreto </h1>
 
-Este jogo é baseado na adivinhação de nomes adicionado pelo próprio usuario. Este jogo pode ser ultilizado para diversas gincanas até formação de times de futebol, e-sport e etc.
+Este jogo é baseado na adivinhação de nomes adicionados pelo próprio usuário. Este jogo pode ser utilizado para diversas gincanas, até mesmo para a formação de times de futebol, e-sports, entre outros.
+
+
+#### **Este jogo sorteia apenas uma pessoa por vez!**
 
 ## 🔨 Abrir e rodar
 
-- adicionando pessoas: No campo "Digite um nome" digite os nomes dos participantes e clique em adicionar para confimar o nome de participante na lista.
-- sortear pessoas: Com base nas adicões de pessoas no campo de texto, o programa irá aleatóriamente escolher, apenas **uma** pessoa.
-
+- Adicionando pessoas: No campo "Digite um nome", digite os nomes dos participantes e clique em "Adicionar" para confirmar o nome do participante na lista.
+- Sortear pessoas: Com base nas adições de pessoas no campo de texto, o programa irá aleatoriamente escolher, apenas uma pessoa.
 
 ## Tecnologias usadas 
 
