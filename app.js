@@ -4,5 +4,11 @@ let amigo = []
 function adicionarAmigo(){
     let amigos = document.querySelector("input").value;
     console.log(amigos);
+    if (amigos == ""){
+        alert("Por favor, insira um nome.");
+    }else{
+        amigo.push(amigos);
+        console.log(`O amigo ${amigos} foi adicionado na lista`, amigo);
+    }
+    
 }
- // Função para verificar se o nome sendo adicionado já existe na lista
