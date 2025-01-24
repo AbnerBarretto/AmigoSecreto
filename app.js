@@ -1,14 +1,22 @@
 // Criar lista zerada
-let amigo = []
+let amigos = []
 // Capturar o valor do campo de entrada
 function adicionarAmigo(){
-    let amigos = document.querySelector("input").value;
-    console.log(amigos);
-    if (amigos == ""){
+    let amigo = document.querySelector("input").value;
+    console.log(amigo);
+    if (amigo == ""){
         alert("Por favor, insira um nome.");
     }else{
-        amigo.push(amigos);
-        console.log(`O amigo ${amigos} foi adicionado na lista`, amigo);
-        document.querySelector("input").value = ""
+        amigos.push(amigo);
+        console.log(`O amigo ${amigo} foi adicionado na lista`, amigos);
+        document.querySelector("input").value = "";
+    }
+}
+
+function atualizarListaDeAmigos(){
+    let lista = document.querySelector("listaAmigos");
+    lista.innerHTML = ""
+    while(i > amigos){
+
     }
 }
