@@ -9,6 +9,6 @@ function adicionarAmigo(){
     }else{
         amigo.push(amigos);
         console.log(`O amigo ${amigos} foi adicionado na lista`, amigo);
+        document.querySelector("input").value = ""
     }
-    
 }
