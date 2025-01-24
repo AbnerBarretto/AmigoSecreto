@@ -12,7 +12,7 @@ Este jogo é baseado na adivinhação de nomes adicionados pelo próprio usuári
 
 ## 🎬 Tutorial
 
-[Uploading 24_01_2025, 12_03_28 - Screen - Vídeo sem título.webm…]()
+[24_01_2025, 12_03_28 - Screen - Vídeo sem título.webm](https://github.com/user-attachments/assets/b54c56f5-522c-40ae-a95c-e49e135efd20)
 
 
 ## Tecnologias usadas 
